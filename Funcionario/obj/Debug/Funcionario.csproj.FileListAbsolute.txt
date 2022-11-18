@@ -1,0 +1,8 @@
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\Hiensen Lima\Desktop\faculdade\Semestre3\LP2\lista04\Funcionario\Funcionario\obj\Debug\Funcionario.pdb
